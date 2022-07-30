@@ -40,9 +40,6 @@
 //#define PASSWORD "civilamb04" // Put your wifi password here
 #define WIFISSID2 "TP-LINK_9291E8"
 #define PASSWORD2 ""
-//#define TOKEN "BBFF-6bXzGZS1A98HJGUV8wsPlFc9hcTAVU" // Ubidots' TOKEN
-//#define TOKEN "BBFF-Nn3dAkOggk3tdSHj88RQan55URJLn5Y9Rc5iwQ7SlzVnquP7n4HQods"
-//#define MQTT_CLIENT_NAME "AlanDutra" // MQTT client Name; 
 
 //------ Definições do ModBus IP --------//
 const int SENSOR_NIVEL = 10;
