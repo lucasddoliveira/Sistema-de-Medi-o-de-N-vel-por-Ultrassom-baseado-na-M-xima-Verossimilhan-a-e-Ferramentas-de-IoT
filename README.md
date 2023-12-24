@@ -16,11 +16,8 @@ Qualquer questionamento ou sugestão, sinta-se livre para entrar em contato via 
 # Reservoir Images
 
 ![image](https://github.com/lucasddoliveira/Ultrasonic-Tank-Level-Measurement-using-IoT/assets/85253035/827e1bff-8327-4c1f-9079-b60149f37377)
-
 ![image](https://github.com/lucasddoliveira/Ultrasonic-Tank-Level-Measurement-using-IoT/assets/85253035/8f2c9e44-b611-4349-a9ad-fa313e23bbfd)
-
 ![image](https://github.com/lucasddoliveira/Ultrasonic-Tank-Level-Measurement-using-IoT/assets/85253035/97b1644b-025d-42b9-82b9-29557ce4e4d1)
-
 ![image](https://github.com/lucasddoliveira/Ultrasonic-Tank-Level-Measurement-using-IoT/assets/85253035/8915f04c-4db6-4002-8aea-466d34d489f0)
 
 # Supervisory
