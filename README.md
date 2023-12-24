@@ -5,9 +5,7 @@ This work was better described in an article published at the Brazilian Congress
 
 For any inquiries or suggestions, please feel free to contact via email: lucasddoliveira1@gmail.com
 
-///////////////////////////
-
-Sistema de Medição de Nível por Ultrassom baseado na Máxima Verossimilhança e Ferramentas de IoT
+# Sistema de Medição de Nível por Ultrassom baseado na Máxima Verossimilhança e Ferramentas de IoT
 
 Script em C/C++ (ESP32) para um sistema de medição de nível por ultrassom e fusão de dados baseado na Máxima Verossimilhança, aliado também ao monitoramento por supervisório online. 
 
